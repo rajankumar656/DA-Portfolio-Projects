@@ -1,7 +1,3 @@
-**Welcome to My Data Engineering Portfolio**
+**Data Analytics Portfolio**
 
-As a Data Engineer, I specialize in designing and optimizing scalable data solutions using cloud technologies like Azure services (Data Factory, Synapse, Databricks, Data Lake). My expertise includes ETL processes, data integration, and performance tuning, ensuring secure and efficient data pipelines.
-
-I’m skilled in big data tools like Apache Spark, Hadoop, and Kafka for real-time data processing, and proficient in Python, Java, and SQL for automation. I also excel in CI/CD automation with Jenkins, Azure DevOps, and GitHub, and create impactful data visualizations with Power BI.
-
-Explore my portfolio to see how I transform data into actionable insights. 
+This repository showcases a collection of data analytics projects where I apply various techniques such as data cleaning, visualization, and statistical analysis to derive insights from complex datasets. Each project demonstrates my proficiency in Python, SQL, and data visualization tools like Power BI. Key highlights include exploratory data analysis (EDA), predictive modeling, and creating interactive dashboards. These projects reflect my ability to turn raw data into actionable insights, supporting data-driven decision-making.
